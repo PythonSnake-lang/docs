@@ -3,7 +3,7 @@
 Those who want to get started quickly and conveniently may install Pi-hole using the following command:
 
 ```bash
-curl -sSL https://install.pi-hole.net | bash
+sudo curl -sSL https://install.pi-hole.net | bash
 ```
 
 <!-- markdownlint-disable code-block-style -->
